@@ -35,8 +35,6 @@ public class HybridInheritance {
 		b1.dispAge();
 		b1.dispColor();
 		
-	
-
 	}
 
 }
