@@ -13,7 +13,9 @@
         <property name="price" value="500"></property>
         <property name="Quantity" value="1"></property>
         </bean>
-        <bean id="p1" class="com.eb.entity.Post">
+        
+   
+   <bean id="p1" class="com.eb.entity.Post">
    
    <constructor-arg value="100" type="int">
    
@@ -24,5 +26,5 @@
       <constructor-arg value="Nice " type="String">
    
    </constructor-arg>
-   </bean>
+</bean>
  </beans>
